@@ -10,6 +10,7 @@ TSV 文件采用 UTF-8，首行为列名。行首 id 是该表的稳定记录号
 - `materials/gauges.tsv`。nominal 和 reading 与 uncertainty 共用 unit。uncertainty 是记录给出的对称半区间，空值表示没有提供。stage 为计量单来源写法。
 - `materials/authorizations.tsv`。use 为实际投用的原始记录状态。serial 对应制造编号，station 是具体申请工位。
 - `materials/measure_terms.tsv`。value 是原有计量术语登记。source 是登记术语适用的文书号，极限以文书原句为准。
+- `materials/gauge_sources.tsv`。gauge 为计量记录编号，datum 和 fixture 是原表声明的基准与装夹号。
 
 ## 运行资料检查
 

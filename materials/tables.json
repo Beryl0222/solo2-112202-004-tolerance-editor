@@ -30,6 +30,13 @@
       "id",
       "source",
       "value"
+    ],
+    "gauge_sources.tsv": [
+      "id",
+      "gauge",
+      "datum",
+      "fixture",
+      "log"
     ]
   },
   "references": [

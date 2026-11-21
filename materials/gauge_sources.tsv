@@ -1,0 +1,5 @@
+id	gauge	datum	fixture	log
+S1	G1	基准甲	C-09	左站较早采样
+S2	G2	基准甲	C-10	拆卸重装后换右站
+S3	G3	基准乙	C-11	复校员尚未确认 D 与 P2 同基准
+S4	G5	基准乙	C-13	复校员确认该 D 不对应 P2
