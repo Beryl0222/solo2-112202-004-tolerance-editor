@@ -1,0 +1,5 @@
+id	lang	role	issued	amends	text
+C1	zh	签署原规	2026-08-02		主线 A 夹具的左右端面距分别不超过公称值加半毫米，去毛刺前测。备线 B 按两端最大差严格小于 0.7 mm，装机前测。
+C2	en	供应商译稿	2026-08-03	C1	The sum of both faces shall not exceed nominal + 0.5 mm after deburring. For Line B, maximum spread up to 0.7 mm before mounting.
+C3	zh	签署补函	2026-10-10	C1	主线 A 上限从加 0.50 mm 调至加 0.40 mm。已装到 B 台的仍按 B 原限，仅改为装机后从测点 P2 取两端最大差。
+C4	en	供应商测点说明	2026-10-11	C3	For serial V2, mark Rear D corresponds to P2. D is a different surface on V3.

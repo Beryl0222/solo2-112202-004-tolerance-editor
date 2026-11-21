@@ -1,0 +1,48 @@
+{
+  "columns": {
+    "specs.tsv": [
+      "id",
+      "lang",
+      "role",
+      "issued",
+      "amends",
+      "text"
+    ],
+    "gauges.tsv": [
+      "id",
+      "serial",
+      "station",
+      "face",
+      "stage",
+      "unit",
+      "nominal",
+      "reading",
+      "uncertainty"
+    ],
+    "authorizations.tsv": [
+      "id",
+      "serial",
+      "station",
+      "signed",
+      "use"
+    ],
+    "measure_terms.tsv": [
+      "id",
+      "source",
+      "value"
+    ]
+  },
+  "references": [
+    [
+      "specs.tsv",
+      "amends",
+      "specs.tsv"
+    ],
+    [
+      "measure_terms.tsv",
+      "source",
+      "specs.tsv"
+    ]
+  ],
+  "compound_keys": []
+}
